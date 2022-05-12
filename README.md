@@ -1,6 +1,6 @@
 # game_or_xr_dev
 
-Artificial Intelligence of Game
+Artificial Intelligence in Game
 ===
 
 NPCs with a certain distance will follow/attack towards the Player,
