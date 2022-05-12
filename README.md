@@ -15,13 +15,13 @@ CBR does not require a training process that requires a large training dataset.
 
 Decision making can utilize Rule-Based Systems (RBS),
 
-![alt text](https://github.com/khoir335/game_or_xr_dev/blob/abc9610851fa4438fcf956d761f88e8bc2e1e524/images/images1a.png)
+[comment]: ![alt text](https://github.com/khoir335/game_or_xr_dev/blob/abc9610851fa4438fcf956d761f88e8bc2e1e524/images/images1a.png)
 
-Figure 1.1 A diagram of case based reasoning in France
+[comment]: # (Figure 1.1 A diagram of case based reasoning in France)
 
 ![alt text](https://github.com/khoir335/game_or_xr_dev/blob/abc9610851fa4438fcf956d761f88e8bc2e1e524/images/images2a.png)
 
-Figure 1.2 Case-Based reasoning general model.
+Figure 1. Case-Based reasoning general model.
 
 1.	__Retrieve__: Given a target problem, retrieve cases relevant to solving it from memory. A case consists of a problem, its solution, and, typically, annotations about how the solution was derived. For example, suppose Fred wants to prepare blueberry pancakes. Being a novice cook, the most relevant experience he can recall is one in which he successfully made plain pancakes. The procedure he followed for making the plain pancakes, together with justifications for decisions made along the way, constitutes Fred's retrieved case.
 
