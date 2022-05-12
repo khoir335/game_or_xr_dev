@@ -3,7 +3,7 @@
 Artificial Intelligence in Game
 ===
 
-NPCs with a certain distance will follow/attack towards the Player,
+The plan I will work on is to make, NPCs with a certain distance will follow/attack towards the Player,
 
 Materials around the Player can get closer to the Player,
 
