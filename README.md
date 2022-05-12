@@ -15,7 +15,7 @@ CBR does not require a training process that requires a large training dataset.
 
 Decision making can utilize Rule-Based Systems (RBS),
 
-RBS used to save and manipulate knowledge to interpret information in useful ways.
+RBS used to store and manipulate knowledge to interpret information in useful ways.
 
 [comment]: # (https://github.com/khoir335/game_or_xr_dev/blob/abc9610851fa4438fcf956d761f88e8bc2e1e524/images/images1a.png)
 
