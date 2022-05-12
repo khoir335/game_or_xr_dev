@@ -3,7 +3,7 @@
 Artificial Intelligence in Game
 ===
 
-The plan I will work on is to make, AI where NPCs with a certain distance will follow/attack towards the Player,
+The plan I will work on is to make, AI where NPCs within a certain distance will follow/attack the Player,
 
 Materials around the Player can get closer to the Player,
 
